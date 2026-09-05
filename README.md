@@ -368,17 +368,6 @@ $ echo $STATUS
 BUILDING.
 ```
 
----
-
-## `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshrao69&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
----
 
 ## `> contact`
 
