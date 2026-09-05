@@ -218,39 +218,6 @@ GPU
 │      reproducible                                          │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lokeshrao69&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshrao69&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## `> contribution_activity`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshrao69&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### contribution graph
-
-<img src="https://raw.githubusercontent.com/Lokeshrao69/Lokeshrao69/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
 
 ---
 
