@@ -336,12 +336,6 @@ BUILDING.
 ```
 
 
-## `> contact`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lokeshrao69-181717?style=for-the-badge\&logo=github)](https://github.com/Lokeshrao69)
-
 </div>
 
 ---
