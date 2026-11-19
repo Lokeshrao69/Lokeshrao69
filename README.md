@@ -1,340 +1,218 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                    LOKESH RAO — PROFILE                     ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
-# `J LOKESH RAO`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:312E81&height=170&section=header&text=J%20LOKESH%20RAO&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20BUILDER%20%7C%20OPEN-SOURCE%20CONTRIBUTOR&descSize=13&descAlignY=70&animation=fadeIn" />
 
-### Quantitative Developer · Systems Engineer · Builder
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+low-latency+trading+systems;Engineering+market+microstructure+infrastructure;Exploring+reinforcement+learning+for+execution;C%2B%2B20+%C3%97+Python+%C3%97+CUDA+%C3%97+Linux" alt="Typing animation" />
+### Building software, exploring ideas, solving interesting problems.
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Software+Engineering;Backend+%26+Cloud+Development;AI%2FML+%26+Applied+Research;Open+Source+%26+Developer+Tools;Always+learning%2C+always+building." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lokeshrao69-181717?style=for-the-badge\&logo=github)](https://github.com/Lokeshrao69)
-[![Nexus-LOB](https://img.shields.io/badge/Project-Nexus--LOB-0A0A0A?style=for-the-badge\&logo=github)](https://github.com/Lokeshrao69/Nexus_LOB)
+<br/>
+
+<a href="https://github.com/Lokeshrao69">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/j-lokesh-rao-512a09259/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+## About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### A little about me
+
+I'm an engineering student who enjoys building things across the software stack.
+
+From low-level systems and backend infrastructure to full-stack applications and machine learning, I enjoy understanding problems deeply and turning ideas into working software.
+
+- Building practical software and developer tools.
+- Exploring systems programming and performance.
+- Experimenting with AI/ML and applied research.
+- Contributing to open-source projects.
+- Learning by building, breaking and improving things.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,aws,docker,linux,git&perline=3" />
+
+<br/><br/>
+
+**Currently building**
+
+Software · Systems · AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Systems & Performance
+
+Building efficient software and understanding what happens under the hood.
+
+`C++` `Concurrency` `Performance` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+### Backend & Cloud
+
+Designing APIs, infrastructure and applications that can be deployed and used.
+
+`Node.js` `Python` `AWS` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Machine Learning
+
+Exploring practical applications of machine learning, intelligent systems and optimization.
+
+`PyTorch` `NumPy` `RL` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### Open Source & Development
+
+Contributing to established projects and building tools that make development easier.
+
+`Git` `GitHub` `APIs` `Developer Tools`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Nexus-LOB
+
+**Systems Engineering · Quantitative Research**
+
+C++20 limit order book, matching engine, market data replay and execution research infrastructure.
+
+<a href="https://github.com/Lokeshrao69/Nexus_LOB">
+<img src="https://img.shields.io/badge/Explore%20Repository-238636?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### PaaniAlert
+
+**Cloud · Backend · Applied AI**
+
+A water monitoring and alerting platform integrating AWS, speech transcription, WhatsApp notifications and Android.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Swecha Corpus
+
+**Mobile · Data Engineering**
+
+An application for collecting community-contributed audio, text, images, video and location data.
+
+</td>
+<td width="50%" valign="top">
+
+### Eco-Logistics OpenEnv
+
+**AI · Optimization · Simulation**
+
+A logistics simulation exploring inventory management, environmental constraints and reinforcement learning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### FirstPR
+
+**Developer Tools · AI**
+
+An open-source contribution guide built around repository understanding and developer onboarding.
+
+</td>
+<td width="50%" valign="top">
+
+### Open Source Contributions
+
+**Community · Engineering**
+
+Contributions to FastMCP and Formance Ledger, including implementation work and regression testing.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&perline=8" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,express&perline=8" />
+
+### Cloud, Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,cmake,vscode&perline=8" />
+
+### Data & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch&perline=8" />
 
 </div>
 
 ---
 
-## `> whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  Lokesh Rao                                                      │
-│                                                                  │
-│  Quantitative Developer / Systems Engineer                       │
-│                                                                  │
-│  I like building things where software engineering meets        │
-│  quantitative finance, market microstructure, and machine        │
-│  learning.                                                       │
-│                                                                  │
-│  Current focus:                                                  │
-│                                                                  │
-│    → Low-latency C++ systems                                     │
-│    → Limit order books & matching engines                         │
-│    → Algorithmic execution                                       │
-│    → Market-data replay & microstructure                         │
-│    → Reinforcement learning                                      │
-│    → GPU / CUDA computing                                        │
-│    → Quantitative risk systems                                   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> current_project`
+## GitHub Activity
 
 <div align="center">
 
-# [NEXUS-LOB](https://github.com/Lokeshrao69/Nexus_LOB)
-
-### Low-Latency Limit Order Book & Quantitative Execution Platform
-
-</div>
-
-```text
-                        MARKET DATA
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  ITCH 5.0     │
-                    │    REPLAY     │
-                    └───────┬───────┘
-                            │
-                            ▼
-              ┌───────────────────────────┐
-              │       LIMIT ORDER BOOK    │
-              │                           │
-              │       C++20 ENGINE        │
-              │                           │
-              │  Price-Time Priority      │
-              │  Market / Limit / IOC     │
-              │  FOK / GTC / Cancel       │
-              │  Partial Fills            │
-              │  Multi-Level Sweeps       │
-              └─────────────┬─────────────┘
-                            │
-                    pybind11 / SHM
-                            │
-                            ▼
-              ┌───────────────────────────┐
-              │       PYTHON QUANT        │
-              │                           │
-              │  L2 Replay                │
-              │  Gymnasium Environment    │
-              │  TWAP / VWAP / POV        │
-              │  Execution Analytics      │
-              └─────────────┬─────────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │   RL EXECUTION     │
-                 │                    │
-                 │   PPO / GRPO       │
-                 └────────────────────┘
-```
-
-**Nexus-LOB** is my attempt to build the infrastructure underneath an execution-research stack rather than treating trading as just a machine-learning problem.
-
-### Stack
-
-`C++20` · `Python` · `CMake` · `pybind11` · `NumPy` · `Gymnasium` · `Linux` · `Shared Memory` · `ITCH 5.0`
-
-### Implemented
-
-* Price-time-priority matching engine
-* Integer-tick price representation
-* Limit / Market / IOC / FOK / GTC orders
-* Partial fills and multi-level sweeps
-* Cancellation and modification
-* Fixed-capacity order pool
-* Fixed-size L2 state contract
-* C++ ↔ Python bridge
-* ITCH 5.0 parser
-* Deterministic market replay
-* Gymnasium execution environment
-* TWAP / VWAP / POV / Passive baselines
-* Shared-memory SPSC transport
-* C++ engine vs Python reference-model parity testing
-
-### Research Direction
-
-```text
-        Conventional Execution
-                 │
-        ┌────────┼────────┐
-        ▼        ▼        ▼
-       TWAP     VWAP     POV
-        │        │        │
-        └────────┼────────┘
-                 ▼
-          Learned Execution
-                 │
-             PPO / GRPO
-                 │
-                 ▼
-       Lower Implementation
-            Shortfall
-```
-
-→ **[Explore Nexus-LOB](https://github.com/Lokeshrao69/Nexus_LOB)**
-
----
-
-## `> tech_stack`
-
-### Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cmake,linux,git,github" />
-
-</p>
-
-### Quant / ML
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pytorch" />
-
-</p>
-
-### Currently Exploring
-
-```text
-C++20
-├── memory-conscious data structures
-├── low-latency execution paths
-├── lock-free / shared-memory systems
-└── deterministic simulation
-
-Quant Finance
-├── market microstructure
-├── limit order books
-├── algorithmic execution
-├── implementation shortfall
-└── execution optimization
-
-Machine Learning
-├── reinforcement learning
-├── PPO
-├── GRPO
-└── policy-based execution
-
-GPU
-├── CUDA
-├── Monte-Carlo simulation
-├── VaR
-└── CVaR
-```
-
----
-
-## `> engineering_principles`
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  01  Correctness before optimization                       │
-│                                                            │
-│  02  Benchmark the system, don't guess                    │
-│                                                            │
-│  03  Keep hot paths deterministic                          │
-│                                                            │
-│  04  Prefer explicit memory ownership                      │
-│                                                            │
-│  05  Use reference implementations as correctness oracles  │
-│                                                            │
-│  06  Treat interfaces / ABI boundaries as contracts        │
-│                                                            │
-│  07  Build infrastructure that makes experiments          │
-│      reproducible                                          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-
----
-
-## `> featured_work`
-
-### [Nexus-LOB](https://github.com/Lokeshrao69/Nexus_LOB)
-
-**Low-latency limit-order-book and execution research platform.**
-
-```text
-C++20
-│
-├── Matching Engine
-├── Order Pool
-├── Book State
-├── Shared Memory
-└── Benchmarks
-       │
-       ▼
-Python
-│
-├── ITCH Replay
-├── L2 State
-├── Execution Environment
-├── Baselines
-└── RL Research
-```
-
----
-
-### More projects
-
-I'm building out the rest of this section as the project portfolio grows.
-
-The goal is to keep the repositories focused on **systems, quantitative finance, machine learning, and interesting engineering problems** rather than collecting tutorial projects.
-
----
-
-## `> currently_learning`
-
-```text
-[██████████████████░░]  C++ Systems / Performance
-
-[████████████████░░░░]  Quantitative Finance
-
-[███████████████░░░░░]  Market Microstructure
-
-[████████████░░░░░░░░]  Reinforcement Learning
-
-[██████████░░░░░░░░░░]  CUDA / GPU Computing
-```
-
----
-
-## `> research_ideas`
-
-Things I want to explore:
-
-```text
-01  Can RL learn when to cross the spread vs provide liquidity?
-
-02  How much execution quality comes from queue-position awareness?
-
-03  How does market impact change with participation rate?
-
-04  Can learned execution policies outperform TWAP / VWAP / POV
-    under realistic order-book dynamics?
-
-05  How much can GPU parallelism accelerate portfolio risk simulation?
-
-06  What happens when execution optimization and risk optimization
-    are treated as one problem?
-```
-
----
-
-## `> terminal`
-
-```bash
-$ uname -a
-
-Linux quant-node 6.x x86_64
-
-$ cat /etc/interests
-
-systems
-quant-finance
-market-microstructure
-reinforcement-learning
-gpu-computing
-algorithmic-trading
-
-$ ./current_project
-
-Nexus-LOB
-
-$ ./stack
-
-C++20
-Python
-CMake
-NumPy
-pybind11
-Gymnasium
-CUDA
-
-$ systemctl status brain
-
-● brain.service - learning
-   Loaded: loaded
-   Active: active (always)
-
-$ echo $STATUS
-
-BUILDING.
-```
-
+<a href="https://github.com/Lokeshrao69">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lokeshrao69&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+</a>
+<a href="https://github.com/Lokeshrao69">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshrao69&layout=compact&hide_border=true&theme=transparent"/>
+</a>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshrao69&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
@@ -342,10 +220,10 @@ BUILDING.
 
 <div align="center">
 
-```text
-"Build systems. Measure them. Break them. Understand them."
-```
+### Always curious. Always building.
 
-### `EOF`
+*Good engineering starts with asking better questions.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0D1117&height=70&section=footer"/>
 
 </div>
